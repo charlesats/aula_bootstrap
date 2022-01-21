@@ -13,4 +13,17 @@ body{
 
 .margin{
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #CCD1D1;
+}
+
+.servicos{
+    background-color: #D6DBDF;
+}
+
+.bg-footer{
+    background-color: #E5E8E8;
 }
